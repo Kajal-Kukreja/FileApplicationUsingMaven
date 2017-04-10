@@ -13,7 +13,6 @@ import java.util.stream.Stream;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("\nTesting GitHub");
         Scanner scanner = new Scanner(System.in);
         System.out.println("\nEnter source location : ");
         String source = scanner.next();
